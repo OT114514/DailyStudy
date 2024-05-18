@@ -12,7 +12,7 @@ inquire "da lao" what should i do in my scheme part
 learn "da lao"'s code about data set
 
 ## 5.15 Study Report
-knowing yolo basic knowledge
+学习yolo基础知识
 ![image](https://github.com/OT114514/DailyStudy/assets/169598472/f329a29c-0227-405a-a7c3-16d495c306e9)
 learn how to use my self data set to cultivate a deep learned machine from bilibili 
 download labelme![Uploading image.png…]()
