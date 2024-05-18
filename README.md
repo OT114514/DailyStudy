@@ -27,3 +27,4 @@ get some knowledge about yolo
 ## 5.18 Study Report
 arranged the environment of anaconda added the labelme into anaconda
 finished the indoor tutorial of labelme, and create my first data file 
+![image](https://github.com/OT114514/DailyStudy/assets/169598472/d79c1206-95cb-4b0e-860e-180f1e6193b6)
