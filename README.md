@@ -24,3 +24,6 @@ keep getting know about yolo
 ## 5.17 Study Report
 get some knowledge about yolo
 
+## 5.18 Study Report
+arranged the environment of anaconda added the labelme into anaconda
+finished the indoor tutorial of labelme, and create my first data file 
