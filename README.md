@@ -35,3 +35,4 @@ finished env of pytorch
 2 instructions :    dir() "打开一个文件"   help() "该文件的说明书"
 
 with .is_available (一个函数用于检查是否可行，返回值为true或者false)
+<img width="257" alt="image" src="https://github.com/OT114514/DailyStudy/assets/169598472/254c98b0-063b-41e3-a788-a7f41c88eda9">
