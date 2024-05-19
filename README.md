@@ -28,3 +28,10 @@ get some knowledge about yolo
 arranged the environment of anaconda added the labelme into anaconda
 finished the indoor tutorial of labelme, and create my first data file 
 ![image](https://github.com/OT114514/DailyStudy/assets/169598472/d79c1206-95cb-4b0e-860e-180f1e6193b6)
+
+## 5.19 Study Report
+finished env of pytorch
+(use ctrl+z to end the current process in base env   | use code exit() to end the current process in pytorch env )
+2 instructions :    dir() "打开一个文件"   help() "该文件的说明书"
+
+with .is_available (一个函数用于检查是否可行，返回值为true或者false)
