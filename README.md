@@ -45,3 +45,6 @@ use vscode achieve the frist dataset operation，but i havent a own data yet
 try to open my dataset in vscode but fail
 my data's path is different form video.
 it says my path cant be found
+![image](https://github.com/OT114514/DailyStudy/assets/169598472/f999def7-5503-4949-b911-c5a944833597)
+但是我学习到如何用python初始化函数，用函数获得数据集中的各种变量
+以及用函数将文件夹中的数据编号作为一个数组
