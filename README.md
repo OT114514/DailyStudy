@@ -37,6 +37,11 @@ finished env of pytorch
 with .is_available (一个函数用于检查是否可行，返回值为true或者false)
 <img width="257" alt="image" src="https://github.com/OT114514/DailyStudy/assets/169598472/254c98b0-063b-41e3-a788-a7f41c88eda9">
 
-## 5.20 Study Reprort
+## 5.20 Study Report
 use vscode achieve the frist dataset operation，but i havent a own data yet
 <img width="284" alt="image" src="https://github.com/OT114514/DailyStudy/assets/169598472/01658836-1661-46d3-a6d8-5865ddc38c2d">
+
+## 5.21 Study Report
+try to open my dataset in vscode but fail
+my data's path is different form video.
+it says my path cant be found
