@@ -44,7 +44,14 @@ use vscode achieve the frist dataset operation，but i havent a own data yet
 ## 5.21 Study Report
 try to open my dataset in vscode but fail
 my data's path is different form video.
-it says my path cant be found
 ![image](https://github.com/OT114514/DailyStudy/assets/169598472/f999def7-5503-4949-b911-c5a944833597)
 但是我学习到如何用python初始化函数，用函数获得数据集中的各种变量
 以及用函数将文件夹中的数据编号作为一个数组
+
+## 5.22and5.23
+搭建好了pycharm社区版的torch环境，要把原有的venv文件删除，重新在右下角选择python环境（系统解释器）后再使用
+解决了vscode中from torch.utils.data import Dataset语句格式错误的问题，是因为pytorch版本有问题，改为2.1.2版之后错误消失
+ 
+
+
+
