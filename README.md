@@ -53,7 +53,10 @@ my data's path is different form video.
 环境改变点击pycharm右下角（选择anaconda env pytorch里的python.exe）
 ![image](https://github.com/OT114514/DailyStudy/assets/169598472/0b8471f3-ed57-46b8-90b0-9868816cadb4)
 解决了vscode中from torch.utils.data import Dataset语句格式错误的问题，是因为pytorch版本有问题，改为2.1.2版之后错误消失
- 
+
+## 5.24 and 5.25
+read the code of XJTLU
+![image](https://github.com/OT114514/DailyStudy/assets/169598472/9760502b-c563-4937-9de0-454a1222e29c)
 
 
 
