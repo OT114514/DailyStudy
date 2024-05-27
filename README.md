@@ -62,4 +62,5 @@ read the code of XJTLU
 install tensorboard
 要用本地终端才能打开pytorch，python终端只能用来敲代码
 tensorboard路径导入有问题，没有成功导入路径
-
+从pytorch终端进入tensorboard with code：tensorboard --logdir=logs 
+use private location:tensorboard --logdir=logs --port=6007
