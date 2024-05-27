@@ -58,5 +58,8 @@ my data's path is different form video.
 read the code of XJTLU
 ![image](https://github.com/OT114514/DailyStudy/assets/169598472/9760502b-c563-4937-9de0-454a1222e29c)
 
-
+## 5.26 and 5.27
+install tensorboard
+要用本地终端才能打开pytorch，python终端只能用来敲代码
+tensorboard路径导入有问题，没有成功导入路径
 
