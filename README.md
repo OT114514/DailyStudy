@@ -64,3 +64,11 @@ install tensorboard
 tensorboard路径导入有问题，没有成功导入路径
 从pytorch终端进入tensorboard with code：tensorboard --logdir=logs 
 use private location:tensorboard --logdir=logs --port=6007
+
+## 5.28、5.29 and 5.30
+learn to use tensorboard
+fail finally,maybe the vision is wrong 
+
+## 5.31 and 6.1
+learn to use transform
+
