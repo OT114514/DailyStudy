@@ -72,3 +72,7 @@ fail finally,maybe the vision is wrong
 ## 5.31 and 6.1
 learn to use transform
 
+## 6.2 and 6.3
+continue to learn transform
+1.图片的一种数据类型“tensor”
+2.transform用处：改变图片的格式
